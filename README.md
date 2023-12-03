@@ -15,3 +15,21 @@ The next step will be to install the Newsdata.io Python client library to integr
 ```
 pip install newsdataapi
 ```
+
+## Necessary Python Libraries  
+We utilize the following libraries in this project:  
+
+**Pandas**  
+```
+pip install pandas
+```
+**NumPy**  
+```
+pip install numpy
+```
+
+**Matplotlib**  
+
+```
+pip install matplotlib
+```
