@@ -19,7 +19,7 @@ pip install newsdataapi
 ## Necessary Python Libraries  
 We utilize the following libraries in this project:  
 
-#### Pandas
+### Pandas
 
 A versatile data manipulation and analysis library.  
 ```
