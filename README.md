@@ -25,6 +25,8 @@ A versatile data manipulation and analysis library.
 ```
 pip install pandas
 ```
+
+---
 **NumPy**  
 
 A fundamental package for scientific computing with support for large, multi-dimensional arrays and matrices.  
