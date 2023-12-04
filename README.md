@@ -27,7 +27,7 @@ pip install pandas
 ```
 
 ---
-### NumPy*  
+### NumPy    
 
 A fundamental package for scientific computing with support for large, multi-dimensional arrays and matrices.  
 ```
