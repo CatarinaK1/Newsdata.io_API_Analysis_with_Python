@@ -20,16 +20,25 @@ pip install newsdataapi
 We utilize the following libraries in this project:  
 
 **Pandas**  
+A versatile data manipulation and analysis library.  
 ```
 pip install pandas
 ```
 **NumPy**  
+A fundamental package for scientific computing with support for large, multi-dimensional arrays and matrices.  
 ```
 pip install numpy
 ```
 
 **Matplotlib**  
+ A comprehensive plotting library for creating static, interactive, and animated visualizations.  
 
 ```
 pip install matplotlib
-```
+```  
+
+**nltk**  
+Essential for performing natural language processing tasks, particularly crucial for the sentiment analysis component of the project.  
+```  
+pip install nltk
+``` 
