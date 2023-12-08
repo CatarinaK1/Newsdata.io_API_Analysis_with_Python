@@ -6,7 +6,7 @@ In this assignment I have utilized Python to work with the Newdata.io API.
 
 
 ## Installation  
-You need to have Python installed. In case you don't download and install Python from the official website https://www.python.org/ .
+You need to have Python installed. In case you don't, download and install Python from the official website https://www.python.org/ .
 
 ### Newdata.io
 
